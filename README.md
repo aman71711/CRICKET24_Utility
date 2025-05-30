@@ -1,130 +1,126 @@
-# CRICKET24_Utility
+# 🏏 CRICKET24_Utility
 
-Cricket 24 Auto Updater v2.4
-Made by XLR8
-A powerful, user-friendly GUI application for automatically updating Cricket 24 to the latest version. No more manual downloads or complex installations - just select your game directory and let the updater do the rest!
-🚀 Features
+**Cricket 24 Auto Updater v2.4 (EXE version: 1.2)**  
+Made by **XLR8**
 
-Automatic Version Detection - Instantly detects your current Cricket 24 version
-Smart Update Chain - Only downloads updates you actually need
-Multiple File Format Support - Handles ZIP, RAR, and 7z archives
-Robust Download System - 5-attempt retry system with exponential backoff
-Progress Tracking - Real-time download progress and speed monitoring
-Dark/Light Mode - Toggle between themes for comfortable usage
-Comprehensive Logging - Detailed logs for troubleshooting
-Backup System - Backup your saved games before updating
-Manual Install Option - Install updates from local files
-Game Launcher - Launch Cricket 24 directly from the updater
+A powerful, user-friendly GUI tool to automatically update your Cricket 24 installation to the latest version. Forget manual patching — this app handles detection, downloading, backup, installation, and launching in one smooth flow.
 
-📋 Supported Versions
-The updater supports updates between these Cricket 24 versions:
+---
 
-v3451 → v3891 (4.4 GB)
-v3891 → v4784 (21.8 GB)
-v4784 → v4818 (254 MB)
-v4818 → v4847 (247 MB)
-v4847 → v4910 (139 MB)
-v4910 → v4949 (98.4 MB)
-v4949 → v5008 (39.6 MB)
-v5008 → v5047 (39 MB)
-v5047 → v5183 (181 MB)
-v5183 → v5214 (38.9 MB)
+## 📦 Prerequisites
 
-Latest Version: v5214
+To extract `.rar` or `.7z` update files, the updater requires **one of the following tools installed and available in your system's PATH**:
 
-Key Directories
+- 🔧 [**7-Zip** (Standalone Installer)](https://www.7-zip.org/a/7z2409-x64.exe)  
+  - Recommended for most users  
+  - After installing, ensure `7z.exe` is accessible from your command line
 
-Game Directory: Your Cricket 24 installation folder (contains cricket24.exe)
-Saved Games: Usually located at ~/Saved Games/Cricket 24
-Backups: Created at ~/Saved Games/Cricket 24 Backups
+- 🏬 [**NanaZip** (Microsoft Store)](https://apps.microsoft.com/detail/9n8g7tscl18r?hl=en-US&gl=US)  
+  - A modern fork of 7-Zip, works the same way  
+  - Automatically adds itself to PATH if installed from the Store
 
-🎮 How It Works
+> ⚠️ If neither 7-Zip nor NanaZip is installed, the updater will display an error when trying to extract `.rar` or `.7z` files and will not continue.
 
-Version Detection: Reads version.txt from your game directory
-Update Planning: Calculates which updates are needed to reach the latest version
-Smart Downloads: Only downloads the updates between your version and the latest
-Automatic Installation: Extracts and installs updates to your game directory
-Verification: Updates version information after successful installation
+---
 
-📱 Interface Overview
-Main Tab
+## 🚀 Features
 
-Game Directory Selection: Choose your Cricket 24 folder
-Version Status: Shows current and target versions
-Updates Required: Lists all needed updates with sizes
-Progress Tracking: Real-time download/install progress
-Control Buttons: Check, Update, Cancel, and Launch
+- ✅ **Automatic Version Detection** – Reads your current version from `version.txt`
+- ✅ **Smart Update Chain** – Downloads only the updates you need
+- ✅ **Supports ZIP / RAR / 7Z** – Local and automatic installs from archive formats
+- ✅ **Fast Retry System** – Auto-retry downloads (up to 5 attempts with exponential backoff)
+- ✅ **Progress Tracking** – Real-time progress bar, status updates, and download speed
+- ✅ **Dark/Light Theme Toggle** – Choose your preferred viewing mode
+- ✅ **Game Backup System** – Auto-backups saved games before patching
+- ✅ **Manual Update Option** – Install updates from local ZIP/RAR/7Z files
+- ✅ **SHA256 Checksum Toggle** – Optional file integrity verification
+- ✅ **Launch Game Post-Update** – One-click Cricket 24 launch from the app
+- ✅ **Logging System** – Error logging, debug info, exportable logs
 
-Logs Tab
+---
 
-Application Logs: Detailed operation history
-Log Management: Refresh, clear, or save logs
-Troubleshooting: Error tracking and debugging info
+## 📁 Key Directories
 
-🔧 Advanced Features
-Backup System
+- 🗂️ **Game Folder**: Where `cricket24.exe` is located
+- 💾 **Saved Games**: Usually `~/Saved Games/Cricket 24`
+- 🛡️ **Backups**: `~/Saved Games/Cricket 24 Backups`
 
-Automatically timestamps backups
-Creates ZIP archives of saved games
-Stores in dedicated backup folder
-One-click restore capability
+---
 
-Manual Installation
+## 🔧 Manual Update Support
 
-Install updates from local ZIP/RAR/7z files
-Useful for offline updates or custom patches
-Same extraction logic as automatic updates
+Install `.zip`, `.rar`, or `.7z` update packages manually via the GUI.
 
-Logging System
+---
 
-Comprehensive operation logging
-Error tracking and debugging
-Exportable log files
-Performance monitoring
+## 🧪 Checksum Verification (Optional)
 
-🎨 Customization
-Dark Mode
+- Enabled by default (recommended)
+- Can be toggled off from the interface
+- Ensures file integrity using SHA256 hashes before installation
 
-Toggle between light and dark themes
-Comfortable viewing in any lighting
-Saves preference during session
+---
 
-Theme Settings
+## 🎨 GUI Overview
 
-Modern, clean interface
-Responsive design
-Progress indicators and status updates
+### Main Tab
+- Select Game Directory
+- View Current & Target Versions
+- List of Required Updates
+- Check for Updates, Start Update, Cancel
+- Progress Bar, Status Labels, Launch Game
 
-🚨 Troubleshooting
-Common Issues
-"version.txt not found"
+### Logs Tab
+- View operation logs
+- Export logs
+- Clear log history
+- Debug failed updates
 
-Ensure you've selected the correct Cricket 24 directory
-The directory should contain cricket24.exe
+---
 
-"Download failed after 5 attempts"
+## 💡 How It Works
 
-Check your internet connection
-Try again later (server might be busy)
-Join our Discord for alternative download links
+1. **Detects version.txt** in your game folder.
+2. **Checks update path** between your version and the latest.
+3. **Downloads only needed patches** from Pixeldrain.
+4. **Backs up saved games** (optional).
+5. **Verifies file hash** if enabled.
+6. **Extracts and installs** automatically.
+7. **Updates version.txt** and allows you to launch the game.
 
-"7-Zip required for RAR/7z extraction"
+---
 
-Install 7-Zip from the official website
-Restart the updater after installation
+## ❗ Troubleshooting
 
-Game won't launch
+**"version.txt not found"**
+- Check if the selected folder contains `cricket24.exe`.
 
-Verify game directory is correct
-Check if cricket24.exe exists
-Run as administrator if needed
+**"Download failed after 5 attempts"**
+- Try again later or check your connection.
+- Join our Discord for mirror links.
 
-Getting Help
-If you encounter any issues:
-🔗 Join our Discord for support: https://discord.gg/fqWvraDg
-Our community is ready to help with:
+**"Extractor Not Found"**
+- Install 7-Zip or NanaZip:
+  - [7-Zip](https://www.7-zip.org/a/7z2409-x64.exe)
+  - [NanaZip (Microsoft Store)](https://apps.microsoft.com/detail/9n8g7tscl18r?hl=en-US&gl=US)
 
-Installation problems
-Update failures
-General questions
-Feature requests
+**Game won’t launch**
+- Check game directory
+- Ensure `cricket24.exe` exists
+- Try running as administrator
+
+---
+
+## 📞 Get Help or Join the Community
+
+💬 [Join our Discord](https://discord.gg/fqWvraDg)
+
+We help with:
+- Installation issues
+- Update failures
+- Feature suggestions
+- Community patches
+
+---
+
+© 2024 XLR8 | Cricket24 Auto Updater Project  
