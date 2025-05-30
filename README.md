@@ -1,6 +1,6 @@
 # 🏏 CRICKET24_Utility
 
-**Cricket 24 Auto Updater v2.4 (EXE version: 1.2)**  
+**Cricket 24 Auto Updater v1.2 (EXE version: 1.2)**  
 Made by **XLR8**
 
 A powerful, user-friendly GUI tool to automatically update your Cricket 24 installation to the latest version. Forget manual patching — this app handles detection, downloading, backup, installation, and launching in one smooth flow.
