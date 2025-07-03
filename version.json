@@ -1,5 +1,5 @@
 {
-  "latest_version": "5328",
+  "latest_version": "5362",
   "versions": [
     "3451",
     "3891",
@@ -15,7 +15,8 @@
     "5256",
     "5270",
     "5301",
-    "5328"
+    "5328",
+    "5362"
   ],
   "update_sizes": {
     "3451_3891": "4.4 GB",
@@ -31,7 +32,8 @@
     "5214_5256": "271 MB",
     "5256_5270": "207 MB",
     "5270_5301": "41.3 MB",
-    "5301_5328": "288 MB"
+    "5301_5328": "288 MB",
+    "5328_5362": "246 MB"
   },
   "checksums": {
     "4910_4949": "c6f7c52e85e448f7bfc5e7aeb6df83a11585a441d2d046445c0f957c09cb95c6",
@@ -42,7 +44,8 @@
     "5214_5256": "988bdb465da71a974e36b80344746502fa7e592ef9d851c9cd677591d2eb4810",
     "5256_5270": "973afc9d95a7fef7325eccce9e3ac9b57de438418b6df534e488432fa239596e",
     "5270_5301": "5cdaae502a37fbc0888f812180136d72f077d38858d879b6cf6bee13a3cbf2c1",
-    "5301_5328": "4e64d39ccc6743bfa22ff37c5169ae23214d42d59b6dd04042c40cd67e723ca8"
+    "5301_5328": "4e64d39ccc6743bfa22ff37c5169ae23214d42d59b6dd04042c40cd67e723ca8",
+    "5328_5362": "???"
   },
   "pixeldrain_links": {
     "3451_3891": "https://pd.cybar.xyz/wdvkRfUa",
@@ -72,9 +75,12 @@
     "5270_5301": "https://pd.cybar.xyz/z8iYh2kj",
     "_original_5270_5301": "https://pixeldrain.com/u/z8iYh2kj",
     "5301_5328": "https://pd.cybar.xyz/V5VhtHS2",
-    "_original_5301_5328": "https://pixeldrain.com/u/V5VhtHS2"
+    "_original_5301_5328": "https://pixeldrain.com/u/V5VhtHS2",
+    "5328_5362": "https://pd.cybar.xyz/1aazENNW",
+    "_original_5328_5362": "https://pixeldrain.com/u/1aazENNW"
   },
   "manifest_links": {
-    "5328": "https://api.github.com/repos/aman71711/CRICKET24_Utility/contents/manifest_v5328.json"
+    "5328": "https://api.github.com/repos/aman71711/CRICKET24_Utility/contents/manifest_v5328.json",
+    "5362": "https://api.github.com/repos/aman71711/CRICKET24_Utility/contents/manifest_v5362.json"
   }
 }
