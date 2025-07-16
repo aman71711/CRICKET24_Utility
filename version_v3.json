@@ -1,1 +1,81 @@
-
+{
+  "latest_version": "5362",
+  "versions": [
+    "3451", "3891", "4784", "4818", "4847", "4910", "4949",
+    "5008", "5047", "5183", "5214", "5256", "5270", "5301",
+    "5328", "5362"
+  ],
+  "host_preference_order": [
+    "pixeldrain",
+    "akirabox"
+  ],
+  "hosts": [
+    {
+      "id": "pixeldrain",
+      "name": "Pixeldrain (Primary)",
+      "links": {
+        "3451_3891": "https://pd.cybar.xyz/daDweN8c",
+        "3891_4784": "https://pd.cybar.xyz/LHQpf3ng",
+        "4784_4818": "https://pd.cybar.xyz/LyNTkxck",
+        "4818_4847": "https://pd.cybar.xyz/JyFpA3Q8",
+        "4847_4910": "https://pd.cybar.xyz/RXukPLnB",
+        "4910_4949": "https://pd.cybar.xyz/bRVganvC",
+        "4949_5008": "https://pd.cybar.xyz/tXs5d5Px",
+        "5008_5047": "https://pd.cybar.xyz/vfnY8JNb",
+        "5047_5183": "https://pd.cybar.xyz/XwpN5hfe",
+        "5183_5214": "https://pd.cybar.xyz/TJXex7Cb",
+        "5214_5256": "https://pd.cybar.xyz/MHmh8CxW",
+        "5256_5270": "https://pd.cybar.xyz/n4u8ZPmy",
+        "5270_5301": "https://pd.cybar.xyz/STN8Lf9T",
+        "5301_5328": "https://pd.cybar.xyz/V5VhtHS2",
+        "5328_5362": "https://pd.cybar.xyz/1aazENNW"
+      }
+    },
+    {
+      "id": "akirabox",
+      "name": "Akirabox",
+      "links": {
+        "3451_3891": "https://download.akirabox.com/uploads/users/M2BGw6OXzj40/coVZLg7ZdMYOvfAc8de-v3451-v3891.rar?access=QMhlGZ4s2dyVWYjRmY4AzbwEGOzFXb2RnYjJXb&token=ElJGXlVMGEdcWENFFgAc",
+        "3891_4784": "https://eu1.akirabox.com/uploads/users/ygXeGOgJGAa7/coMV9HEXF5ZogSEwLde-C24.v0.2.3891%E2%80%93v0.2.4784-GameDrive.Org.rar?access=ANhNGZrtGOyNTYtRGNwUWbu9WcoRna5Q3ZjhWb",
+        "4784_4818": "https://eu1.akirabox.com/uploads/users/ygXeGOgJGAa7/coiNULDSfcl12Gkpade-C24.v0.2.4784%E2%80%93v0.2.4818-GameDrive.Org.rar?access=QYhhGZ4tGZyNWYwQGOvNTdyUTdqVnazRXZjBXb",
+        "4818_4847": "https://eu1.akirabox.com/uploads/users/ygXeGOgJGAa7/coXTWOdogFGcmridude-C24.v0.2.4818%E2%80%93v0.2.4847-GameDrive.Org.rar?access=QchVDZqtWayBTYuRWNnFHNih3dr9ma0QHajlTb",
+        "4847_4910": "https://eu1.akirabox.com/uploads/users/ygXeGOgJGAa7/cokZpg8wNCQ69kBcZde-C24.v0.2.4847%E2%80%93v0.2.4910-GameDrive.Org.rar?access=Aeh9GZ3s2YylWY1QGejJHZmVjeuhja4RXajlXb",
+        "4910_4949": "https://eu1.akirabox.com/uploads/users/ygXeGOgJGAa7/cotORBkOAm8dkz0i7de-C24.v0.2.4910-v0.2.4949-GameDrive.Org.rar?access=Qdh5GZ0s2YytWYoRWZvJHOyInMv1maqRndjdWb",
+        "4949_5008": "https://eu1.akirabox.com/uploads/users/ygXeGOgJGAa7/coB84aCdbp2BGWXEfde-C24.v0.2.4949-v0.2.5008-GameDrive.Org.rar?access=wch9GZjtGayFTYyQWcvVTe3AHNwFmaxQXYjBTb",
+        "5008_5047": "https://eu1.akirabox.com/uploads/users/ygXeGOgJGAa7/co4W1zGgnhckUTJdXde-C24.v0.2.5008-v0.2.5047-GameDrive.Org.rar?access=wdhdGZxtGayRWY5Q2cndzZtBHexhma3RXejFWb",
+        "5047_5183": "https://eu1.akirabox.com/uploads/users/ygXeGOgJGAa7/cokqeyJNBS2tjooJPde-C24.v0.2.5047-v0.2.5183-GameDrive.Org.rar?access=gYhlHZ6tWdyJWYwQmM4ETdzpmd2hjawR3cjpWb",
+        "5183_5214": "https://eu1.akirabox.com/uploads/users/ygXeGOgJGAa7/coOf2dMMQodf8ui0dde-C24.v0.2.5183-v0.2.5214-GameDrive.Org.rar?access=wNhBHZwsGbyRXY1R2avNjMoJnY6dmahRncjJXb",
+        "5214_5256": "https://eu1.akirabox.com/uploads/users/ygXeGOgJGAa7/copFtVBsXQoVGc1Mmde-C24.v0.2.5214-v0.2.5256-GameDrive.Org.rar?access=gehdDZwsWOydXYhRGO3lXe1YHOwIza0RncjZWb",
+        "5256_5270": "https://download.akirabox.com/uploads/users/ygXeGOgJGAa7/co2jLvUWLyRhrCHpGde-C24.v0.2.5256%E2%80%93v0.2.5270-GameDrive.Org.rar?access=wYhBDZ0sGbyhWYtRWY4AHMwgndxY2ayQ3ZjRWb&token=J1NGRRJRQEZKVEBeUoPu5xJRXFlKVFxDVEw1CgkEKgYNFxdFKxMJWhYAAA",
+        "5270_5301": "https://eu1.akirabox.com/uploads/users/ygXeGOgJGAa7/cooUqSHE4ui7f5RCTde-C24.v0.2.5270%E2%80%93v0.2.5301-GameDrive.Org.rar?access=AahBHZlt2ayFTYrRWcwwWa1d3NyI2asRHcjJWb",
+        "5301_5328": "https://eu1.akirabox.com/uploads/users/ygXeGOgJGAa7/corWYZAPyDLsxxWSBde-C24.v0.2.5301%E2%80%93v0.2.5328-GameDrive.Org.rar?access=ANhpHZ5tmcytWYrRGZnZ3b0QHZzg3a4RncjRTb",
+        "5328_5362": "https://eu1.akirabox.com/uploads/users/ygXeGOgJGAa7/coXwzmjD7zWAwMebFde-C24.v0.2.5328%E2%80%93v0.2.5362-GameDrive.Org.rar?access=QOhVGZws2cy1WYxRWa3pWd4F3b0o3alRHNjRTb"
+      }
+    }
+  ],
+  "update_sizes": {
+    "3451_3891": "4.4 GB", "3891_4784": "21.8 GB", "4784_4818": "254 MB",
+    "4818_4847": "247 MB", "4847_4910": "139 MB", "4910_4949": "98.4 MB",
+    "4949_5008": "39.6 MB", "5008_5047": "39 MB", "5047_5183": "181 MB",
+    "5183_5214": "38.9 MB", "5214_5256": "271 MB", "5256_5270": "207 MB",
+    "5270_5301": "41.3 MB", "5301_5328": "288 MB", "5328_5362": "246 MB"
+  },
+  "checksums": {
+    "3451_3891": "451fd57304b5dadd8245ee5c5aa1eaaf13c594068f880038fb5c23cb0eeb8b28",
+    "3891_4784": null, "4784_4818": null, "4818_4847": null, "4847_4910": null,
+    "4910_4949": "c6f7c52e85e448f7bfc5e7aeb6df83a11585a441d2d046445c0f957c09cb95c6",
+    "4949_5008": "cc63779a399f3d688ce3657db51b427bab4de8e0492a08414a62f6656f1dbea5",
+    "5008_5047": "cfdff5082725803c3ba4685d9700f75725964a198e05a846ba1b7b45dd83555a",
+    "5047_5183": "4c5a0abdce774d5d298cba075fc575c2862389742d06f24a87ace259eef24c7c",
+    "5183_5214": "1b49d1220c720e7871847df554114e4e07a70b789c61615653876b15861b3697",
+    "5214_5256": "988bdb465da71a974e36b80344746502fa7e592ef9d851c9cd677591d2eb4810",
+    "5256_5270": "973afc9d95a7fef7325eccce9e3ac9b57de438418b6df534e488432fa239596e",
+    "5270_5301": "5cdaae502a37fbc0888f812180136d72f077d38858d879b6cf6bee13a3cbf2c1",
+    "5301_5328": "4e64d39ccc6743bfa22ff37c5169ae23214d42d59b6dd04042c40cd67e723ca8",
+    "5328_5362": "b8f30283eea3b3452f08501d97026a211ca4af49eca3ca77424ddf794ec8ff52"
+  },
+  "manifest_links": {
+    "5328": "https://api.github.com/repos/aman71711/CRICKET24_Utility/contents/manifest_v5328.json",
+    "5362": "https://api.github.com/repos/aman71711/CRICKET24_Utility/contents/manifest_v5362.json"
+  }
+}
