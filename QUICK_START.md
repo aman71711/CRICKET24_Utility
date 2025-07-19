@@ -15,8 +15,6 @@ Get Cricket 24 Auto Updater running in less than 2 minutes!
 ## Step 3: Setup (60 seconds)
 1. Click the **📁 folder icon** next to "Game Directory"
 2. Navigate to your Cricket 24 installation folder:
-   - Usually: `C:\Program Files\Steam\steamapps\common\Cricket 24\`
-   - Or: `C:\Program Files (x86)\Steam\steamapps\common\Cricket 24\`
 3. Click **"Select Folder"**
 4. Click **"🔍 Check for Updates"**
 
