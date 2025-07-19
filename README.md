@@ -2,107 +2,151 @@
 
 A comprehensive utility for managing Cricket 24 game updates with enhanced visual design and modern user interface.
 
-## Features
+## 🚀 Quick Start
 
-### 🔄 Auto Updater
-- **Automatic Update Detection**: Checks for the latest Cricket 24 patches
-- **Multi-threaded Downloads**: Fast concurrent downloading with pause/resume support
-- **Checksum Verification**: Ensures file integrity with SHA-256 verification
-- **Smart Installation**: Automatic extraction and installation of updates
-- **Host Failover**: Multiple download sources for reliability
+### ⬇️ Download & Run
+1. **[Download Cricket24_Auto_Updater_v5.0.exe](https://github.com/aman71711/CRICKET24_Utility/releases)** 
+2. **Run as Administrator** (right-click → "Run as administrator")
+3. **Select your Cricket 24 game folder**
+4. **Click "Check for Updates"**
+
+**👉 [2-Minute Setup Guide](QUICK_START.md)** | **[Complete Manual](HOW_TO_USE.md)**
+
+---
+
+## ⭐ Key Features
+
+### 🔄 Smart Auto Updater
+- **One-click updates** for Cricket 24 patches
+- **Multi-threaded downloads** with pause/resume
+- **Automatic integrity verification** (SHA-256 checksums)
+- **Multiple download sources** for reliability
 
 ### 🛡️ File Verifier
-- **Complete Game Verification**: Validates all game files against checksums
-- **Detailed Reports**: Identifies missing, corrupted, and extra files
-- **Export Capabilities**: Save verification reports for troubleshooting
-- **Real-time Progress**: Live updates during verification process
+- **Complete game file validation**
+- **Detailed corruption reports**
+- **Export capabilities** for troubleshooting
 
-### 🔧 Utilities
-- **Game Management**: Launch Cricket 24, backup/restore saves
-- **Network Tools**: DNS management for connection issues
-- **Quick Access**: Direct shortcuts to save locations and backups
-- **Shortcut Creation**: Create Cricket 24 Start Menu shortcuts
-- **Cache Management**: Clear download cache to free disk space
+### 🔧 Game Utilities
+- **Save backup & restore**
+- **Network diagnostics** 
+- **Quick access shortcuts**
+- **Cache management**
 
 ### 🩺 System Diagnostics
-- **Hardware Analysis**: CPU, GPU, RAM, and disk space information
-- **Crash Log Scanning**: Windows Event Log analysis for game crashes
-- **DirectX Reporting**: Generate comprehensive DxDiag reports
-- **Export Results**: Save diagnostic information for support
+- **Hardware analysis** (CPU, GPU, RAM)
+- **Crash log detection**
+- **DirectX reporting**
 
-### 📄 Enhanced Logging
-- **Comprehensive Logs**: Detailed application and system event logging
-- **Color-coded Output**: Easy-to-read categorized log entries
-- **Export & Archive**: Save logs for troubleshooting and support
+---
 
 ## Installation
 
-### Pre-compiled Binary (Recommended)
-1. Download the latest `cricket24_utility_5.0.exe` from the [Releases](https://github.com/aman71711/CRICKET24_Utility/releases) page
-2. Run the executable as Administrator (recommended for full functionality)
-3. No additional installation required - it's a standalone executable
+### 🎯 Recommended Method (Easiest)
+1. **Download**: Get `Cricket24_Auto_Updater_v5.0.exe` from [Releases](https://github.com/aman71711/CRICKET24_Utility/releases)
+2. **Run**: Double-click the executable (run as Administrator for full features)
+3. **Ready**: No installation needed - it's a standalone application!
 
-**Note**: This repository provides pre-compiled executables for ease of use and code protection. Source code is not publicly available.
+### 📋 What You Need
+- Windows 10/11 (64-bit)
+- Internet connection
+- Administrator privileges (recommended)
+- ~50MB free disk space
 
-## Requirements
+**Note**: This repository provides pre-compiled executables only. Source code is protected for security reasons.
 
-- Windows 10/11
-- .NET Framework 4.7.2 or higher
-- Administrator privileges (recommended for full functionality)
-- Internet connection for updates
+---
 
-## Usage
+## 📚 Documentation
 
-1. **Select Game Directory**: Choose your Cricket 24 installation folder
-2. **Check for Updates**: Click "Check for Updates" to scan for new patches
-3. **Install Updates**: Follow the on-screen prompts to download and install
-4. **Verify Files**: Use the Verifier tab to check game file integrity
-5. **Use Utilities**: Access various game management tools
+| Document | Description | Best For |
+|----------|-------------|----------|
+| **[� Quick Start](QUICK_START.md)** | **2-minute setup guide** | First-time users |
+| **[�📖 HOW TO USE](HOW_TO_USE.md)** | **Complete step-by-step manual** | Detailed guidance |
+| [🖼️ Visual Guide](VISUAL_GUIDE.md) | Screenshots and UI walkthrough | Visual learners |
+| [📁 Project Structure](PROJECT_STRUCTURE.md) | Repository organization | Contributors, developers |
+| [🐛 Issues](https://github.com/aman71711/CRICKET24_Utility/issues) | Bug reports and feature requests | Technical problems |
+| [💬 Discord](https://discord.gg/5gWWv3ar) | Community support and discussions | Quick help, community |
 
-## Technology Stack
+---
+## 🛠️ Technical Details
 
+### Built With
 - **Python 3.13+**: Core application logic
-- **Tkinter + sv-ttk**: Modern dark-themed user interface
-- **Threading**: Concurrent operations and background tasks
-- **PowerShell**: Windows integration and system operations
+- **Tkinter + sv-ttk**: Modern dark-themed user interface  
+- **Multi-threading**: Concurrent operations and background tasks
+- **PowerShell Integration**: Windows system operations
 - **7-Zip**: Archive extraction and compression
 - **WMI**: System information gathering
 
-## Development Team
+### Security Features
+- **Checksum Verification**: SHA-256 file integrity validation
+- **Multiple Download Sources**: Failover protection
+- **Secure Archive Handling**: Safe extraction with 7-Zip
+- **Windows Integration**: Proper privilege handling
 
-- **👑 XLR8** (@xlr8_boi) - Creator
-- **⭐ ADITYA** (@adityaberchha) - Developer
-- **🤝 Begula** (@belugaaaaaaaaaaaaa) - Contributor
+---
 
-## Version History
+## 👥 Development Team
 
-### v5.0 (Phoenix Enhanced)
-- Complete visual overhaul with modern theming system
-- Enhanced icon consistency and visual hierarchy
-- Improved layout with better spacing and alignment
-- Modular theme management with multiple color schemes
-- Optimized button styling and visual feedback
-- Enhanced clear cache functionality with better UX
+| Role | Developer | Discord |
+|------|-----------|---------|
+| 👑 **Creator** | XLR8 | @xlr8_boi |
+| ⭐ **Developer** | ADITYA | @adityaberchha | 
+| 🤝 **Contributor** | Begula | @belugaaaaaaaaaaaaa |
 
-### Previous Versions
-- v4.x: Enhanced network tools and diagnostics
-- v3.x: Multi-threaded downloads and verification
-- v2.x: Basic update functionality
-- v1.x: Initial release
+---
 
-## Contributing
+## 📈 Version History
 
-We welcome contributions! Please feel free to:
-- Report bugs and issues
-- Suggest new features
-- Submit pull requests
-- Improve documentation
+### v5.0 (Phoenix Enhanced) - Current
+- ✨ Complete visual overhaul with modern theming
+- 🎨 Enhanced icon consistency and visual hierarchy  
+- 📐 Improved layout with better spacing and alignment
+- 🎛️ Modular theme management system
+- 🔘 Optimized button styling and visual feedback
+- 🧹 Enhanced cache management with better UX
 
-## Support
+<details>
+<summary>Previous Versions</summary>
 
-- **Discord Community**: [Join our Discord](https://discord.gg/5gWWv3ar)
-- **Issues**: Report bugs on our [GitHub Issues](https://github.com/aman71711/CRICKET24_Utility/issues) page
-- **Documentation**: Check our [Wiki](https://github.com/aman71711/CRICKET24_Utility/wiki) for detailed guides
+### v4.x Series
+- Enhanced network tools and diagnostics
+- Improved error handling and logging
+
+### v3.x Series  
+- Multi-threaded downloads and verification
+- Checksum validation system
+
+### v2.x Series
+- Basic update functionality
+- File verification features
+
+### v1.x Series
+- Initial release and core features
+
+</details>
+
+---
+
+## 🤝 Contributing & Support
+
+### 🐛 Found a Bug?
+1. Check [existing issues](https://github.com/aman71711/CRICKET24_Utility/issues)
+2. Create a new issue with details
+3. Include logs and system information
+
+### 💡 Feature Requests
+- Open an issue with the `enhancement` label
+- Describe the feature and use case
+- Community feedback welcome!
+
+### 💬 Get Help
+- **Discord**: [Join our community](https://discord.gg/5gWWv3ar) (fastest response)
+- **GitHub Issues**: For bug reports and technical issues
+- **Documentation**: Check the [HOW TO USE guide](HOW_TO_USE.md)
+
+---
 
 ## License
 
