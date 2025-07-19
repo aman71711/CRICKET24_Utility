@@ -8,6 +8,40 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🚀 Quick Start](#-quick-start)
+  - [⬇️ Download & Install](#️-download--install)
+  - [💬 Need Help? Join Discord!](#-need-help-join-discord)
+- [⭐ Features](#-features)
+  - [🔄 Smart Auto Updater](#-smart-auto-updater)
+  - [🛡️ Game File Verification](#️-game-file-verification)
+  - [💾 Save Game Management](#-save-game-management)
+  - [🩺 System Diagnostics](#-system-diagnostics)
+  - [🎨 Modern Interface](#-modern-interface)
+- [📖 How to Use](#-how-to-use)
+  - [🎯 First Setup](#-first-setup)
+  - [🔄 Updating Your Game](#-updating-your-game)
+  - [🛡️ Verifying Game Files](#️-verifying-game-files)
+  - [💾 Managing Save Games](#-managing-save-games)
+  - [🩺 System Diagnostics (Usage)](#-system-diagnostics-usage)
+- [🛠️ Utilities](#️-utilities)
+  - [🗑️ Cache Management](#️-cache-management)
+  - [⚙️ Settings & Theme](#️-settings--theme)
+- [🆘 Troubleshooting](#-troubleshooting)
+  - [Common Issues](#common-issues)
+  - [🚨 Advanced Issues - Discord Support Required](#-advanced-issues---discord-support-required)
+  - [💬 Getting Help](#-getting-help)
+  - [🎯 Discord Support Protocol](#-discord-support-protocol)
+- [🔧 System Requirements](#-system-requirements)
+  - [Minimum Requirements](#minimum-requirements)
+  - [Recommended](#recommended)
+- [👥 Development Team](#-development-team)
+- [📄 License](#-license)
+- [🔗 Links](#-links)
+
+---
+
 ## 🚀 Quick Start
 
 ### ⬇️ Download & Install
@@ -88,7 +122,7 @@
 2. **Restore**: Use "⬆️ Restore Backup" to recover previous saves
 3. **Automatic backups** are created before each update
 
-### 🩺 System Diagnostics
+### 🩺 System Diagnostics (Usage)
 1. **Click "🩺 Run Diagnostics"** (requires Admin rights)
 2. **Wait for system scan** to complete
 3. **Review hardware compatibility** and driver status
