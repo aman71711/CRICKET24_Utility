@@ -1,0 +1,65 @@
+# INCLUDE ONLY SPECIFIC FILES
+# This repository only contains:
+# - cricket24_utility_5.0.py (main application)
+# - README.md (documentation)
+# - .gitignore (this file)
+
+# Exclude ALL Python files except the main one
+*.py
+!cricket24_utility_5.0.py
+
+# Exclude all other project files
+*.bat
+*.cmd
+*.ps1
+*.exe
+*.dll
+*.pdb
+*.log
+*.json
+*.txt
+*.ini
+*.cfg
+*.yaml
+*.yml
+*.xml
+
+# Exclude directories
+__pycache__/
+.vscode/
+.idea/
+Updater/
+temp/
+cache/
+downloads/
+backups/
+dist/
+build/
+
+# Exclude OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Exclude all other Python files by name
+claude.py
+code*.py
+Crciket*.py
+cricket*.py
+!cricket24_utility_5.0.py
+CRICKET*.py
+gemini*.py
+test_*.py
+*_test.py
+*_Copy.py
+* - Copy.py
+
+# Exclude markdown files except README
+*.md
+!README.md
+
+# Keep only essential files
+!cricket24_utility_5.0.py
+!README.md
+!.gitignore
+!LICENSE
