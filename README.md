@@ -93,7 +93,7 @@ A comprehensive utility for managing Cricket 24 game updates with enhanced visua
 |------|-----------|---------|
 | 👑 **Creator** | XLR8 | @xlr8_boi |
 | ⭐ **Developer** | ADITYA | @adityaberchha | 
-| 🤝 **Contributor** | Begula | @belugaaaaaaaaaaaaa |
+
 
 ---
 
