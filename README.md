@@ -37,17 +37,12 @@ A comprehensive utility for managing Cricket 24 game updates with enhanced visua
 
 ## Installation
 
-### Recommended Method (Pre-compiled Binary)
+### Pre-compiled Binary (Recommended)
 1. Download the latest `cricket24_utility_5.0.exe` from the [Releases](https://github.com/aman71711/CRICKET24_Utility/releases) page
 2. Run the executable as Administrator (recommended for full functionality)
 3. No additional installation required - it's a standalone executable
 
-### Advanced Users (Source Code)
-1. Ensure you have Python 3.13+ installed
-2. Install required dependencies: `pip install psutil sv-ttk py-cpuinfo WMI pywin32`
-3. Run: `python cricket24_utility_5.0.py`
-
-**Note**: The pre-compiled executable is recommended for most users as it includes all dependencies and provides the best performance.
+**Note**: This repository provides pre-compiled executables for ease of use and code protection. Source code is not publicly available.
 
 ## Requirements
 
