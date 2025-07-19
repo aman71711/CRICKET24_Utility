@@ -57,7 +57,7 @@ This comprehensive guide will walk you through every feature of the Cricket 24 A
    - **Custom**: Wherever you installed Cricket 24
 3. **Verify**: Click "Select Folder" - you should see a green checkmark ✅
 
-**💡 Can't find it?** Open Steam → Right-click Cricket 24 → Properties → Local Files → Browse
+
 
 ---
 
@@ -158,17 +158,8 @@ This comprehensive guide will walk you through every feature of the Cricket 24 A
 - Extra files that may cause conflicts
 - System information and verification timestamp
 
-### Step 4: How to Fix Corrupted Files
-**If corrupted files are found:**
-1. **Keep the verification report** - you'll need it for support
-2. **Open Steam** client
-3. **Right-click** Cricket 24 in your library
-4. **Select** Properties → Local Files
-5. **Click** "Verify integrity of game files"
-6. **Wait** for Steam to download and fix corrupted files
-7. **Re-run verification** in the updater to confirm fixes
 
-### Step 5: Sharing Report for Support Analysis
+### Step 4: Sharing Report for Support Analysis
 **When asking for help on Discord or GitHub:**
 1. **Attach the verification report file** from your Desktop
 2. **Include in your message**:
@@ -224,9 +215,6 @@ This comprehensive guide will walk you through every feature of the Cricket 24 A
   - View all your backup files
   - Delete old backups to save disk space
   
-- **🔗 Create Cricket 24 Shortcut**: Adds game shortcut to Start Menu
-  - Quick access to launch Cricket 24
-  - Useful if you can't find the game in Steam
 
 ### Save File Problems - Report Generation
 **If you're experiencing save file issues:**
@@ -476,17 +464,6 @@ Recent logs:
 
 ## 🚫 **Common Issues**
 
-### "Game Directory Not Found"
-**Problem**: Selected folder doesn't contain `cricket24.exe`
-
-**Solutions:**
-1. **Find correct folder**: Open Steam → Right-click Cricket 24 → Properties → Local Files → Browse
-2. **Common locations**:
-   - `C:\Program Files\Steam\steamapps\common\Cricket 24\`
-   - `C:\Program Files (x86)\Steam\steamapps\common\Cricket 24\`
-   - Custom Steam library locations
-3. **Look for**: Folder containing `cricket24.exe` file
-
 ### "No Updates Available" 
 **Problem**: Tool says no updates but you think there should be
 
@@ -501,7 +478,7 @@ Recent logs:
 
 **Solutions:**
 1. **If recently updated**: This is normal during updates
-2. **If game won't start**: Run Steam's "Verify Integrity of Game Files"
+2. **If game won't start**: Run "Verify Integrity of Game Files"
 3. **If problems persist**: Consider clean reinstall of Cricket 24
 
 ---
@@ -741,9 +718,6 @@ A: Check weekly, or whenever you experience game issues.
 A: Yes, updates don't affect saves. But regular backups are always recommended.
 
 ### Technical Questions
-
-**Q: Will this work with pirated copies?**
-A: This tool is designed for legitimate Steam copies only. We don't support pirated versions.
 
 **Q: Can I use this with mods?**
 A: Yes, but verify files before updating to ensure mods don't cause conflicts.
