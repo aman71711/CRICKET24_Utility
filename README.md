@@ -38,7 +38,7 @@ A comprehensive utility for managing Cricket 24 game updates with enhanced visua
 ## Installation
 
 ### Recommended Method (Pre-compiled Binary)
-1. Download the latest `cricket24_utility_5.0.exe` from the [Releases](https://github.com/yourusername/cricket24-utility/releases) page
+1. Download the latest `cricket24_utility_5.0.exe` from the [Releases](https://github.com/aman71711/CRICKET24_Utility/releases) page
 2. Run the executable as Administrator (recommended for full functionality)
 3. No additional installation required - it's a standalone executable
 
@@ -106,8 +106,8 @@ We welcome contributions! Please feel free to:
 ## Support
 
 - **Discord Community**: [Join our Discord](https://discord.gg/5gWWv3ar)
-- **Issues**: Report bugs on our [GitHub Issues](https://github.com/yourusername/cricket24-utility/issues) page
-- **Documentation**: Check our [Wiki](https://github.com/yourusername/cricket24-utility/wiki) for detailed guides
+- **Issues**: Report bugs on our [GitHub Issues](https://github.com/aman71711/CRICKET24_Utility/issues) page
+- **Documentation**: Check our [Wiki](https://github.com/aman71711/CRICKET24_Utility/wiki) for detailed guides
 
 ## License
 
