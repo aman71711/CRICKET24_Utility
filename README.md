@@ -1,161 +1,272 @@
-# Cricket 24 Auto Updater v5.0
+# 🏏 Cricket 24 Auto Updater v5.0
 
-A comprehensive utility for managing Cricket 24 game updates with enhanced visual design and modern user interface.
+**Professional game updater with modern UI and comprehensive features**
+
+[![Discord](https://img.shields.io/discord/1234567890?color=7289da&label=Discord&logo=discord)](https://discord.gg/5gWWv3ar)
+[![Downloads](https://img.shields.io/github/downloads/aman71711/CRICKET24_Utility/total)](https://github.com/aman71711/CRICKET24_Utility/releases)
+[![Version](https://img.shields.io/github/v/release/aman71711/CRICKET24_Utility)](https://github.com/aman71711/CRICKET24_Utility/releases/latest)
+
+---
 
 ## 🚀 Quick Start
 
-### ⬇️ Download & Run
-1. **[Download Cricket24_Auto_Updater_v5.0.exe](https://github.com/aman71711/CRICKET24_Utility/releases)** 
+### ⬇️ Download & Install
+1. **[Download Latest Release](https://github.com/aman71711/CRICKET24_Utility/releases/latest)** 
 2. **Run as Administrator** (right-click → "Run as administrator")
 3. **Select your Cricket 24 game folder**
-4. **Click "Check for Updates"**
+4. **Click "Check for Updates"** ✅
 
-**👉 [2-Minute Setup Guide](QUICK_START.md)** | **[Complete Manual](HOW_TO_USE.md)**
+### 💬 Need Help? Join Discord!
+**🔗 [Discord Server: https://discord.gg/5gWWv3ar](https://discord.gg/5gWWv3ar)**
+- Get instant support from the community
+- Report bugs and request features
+- Share your experience with other Cricket 24 players
+- Get notified about new updates
+
+**🚨 For Critical Issues:**
+- **Verification failures** → `#discussion-c24` (include screenshots)
+- **Game crashes** → `#discussion-c24` (include full diagnostic report)  
+- **Update failures** → `#discussion-c24` (include application logs)
 
 ---
 
-## ⭐ Key Features
+## ⭐ Features
 
 ### 🔄 Smart Auto Updater
 - **One-click updates** for Cricket 24 patches
-- **Multi-threaded downloads** with pause/resume
-- **Automatic integrity verification** (SHA-256 checksums)
-- **Multiple download sources** for reliability
+- **Resume downloads** if interrupted
+- **Multi-host failover** for reliable downloads
+- **Automatic extraction and installation**
 
-### 🛡️ File Verifier
-- **Complete game file validation**
-- **Detailed corruption reports**
-- **Export capabilities** for troubleshooting
+### 🛡️ Game File Verification
+- **SHA256 checksum verification** for all files
+- **Detect corrupted or missing files**
+- **Comprehensive integrity checking**
 
-### 🔧 Game Utilities
-- **Save backup & restore**
-- **Network diagnostics** 
-- **Quick access shortcuts**
-- **Cache management**
+### 💾 Save Game Management
+- **Backup your game saves** before updates
+- **Restore previous saves** if needed
+- **Automatic timestamped backups**
 
 ### 🩺 System Diagnostics
-- **Hardware analysis** (CPU, GPU, RAM)
-- **Crash log detection**
-- **DirectX reporting**
+- **Hardware compatibility checking**
+- **DirectX and driver information**
+- **Crash log analysis**
+- **Export diagnostic reports**
+
+### 🎨 Modern Interface
+- **Professional dark theme**
+- **Intuitive user experience**
+- **Real-time progress tracking**
+- **Detailed status information**
 
 ---
 
-## Installation
+## 📖 How to Use
 
-### 🎯 Recommended Method (Easiest)
-1. **Download**: Get `Cricket24_Auto_Updater_v5.0.exe` from [Releases](https://github.com/aman71711/CRICKET24_Utility/releases)
-2. **Run**: Double-click the executable (run as Administrator for full features)
-3. **Ready**: No installation needed - it's a standalone application!
+### 🎯 First Setup
+1. **Launch the application** as Administrator
+2. **Set Game Directory**: Click the 📁 folder icon and navigate to your Cricket 24 installation
+   - Default locations: `C:\Program Files\Cricket 24\` or `C:\Program Files (x86)\Cricket 24\`
+3. **Test connection**: Click "🔍 Check for Updates"
 
-### 📋 What You Need
-- Windows 10/11 (64-bit)
-- Internet connection
-- Administrator privileges (recommended)
-- ~50MB free disk space
+### 🔄 Updating Your Game
+1. **Click "🔍 Check for Updates"** to scan for available patches
+2. **Review the update list** - you'll see version numbers and file sizes
+3. **Click "⬇️ Download & Install"** to start the update process
+4. **Wait for completion** - the progress bar will show download and installation status
+5. **Launch your updated game** using the "🎮 Launch Game" button
 
-**Note**: This repository provides pre-compiled executables only. Source code is protected for security reasons.
+### 🛡️ Verifying Game Files
+1. **Go to the "Verification" tab**
+2. **Click "🔍 Start Verification"** to check all game files
+3. **Review the results** - any corrupted files will be highlighted
+4. **Fix issues** by re-downloading problematic files
+
+### 💾 Managing Save Games
+1. **Backup**: Click "💾 Backup Saves" before major updates
+2. **Restore**: Use "⬆️ Restore Backup" to recover previous saves
+3. **Automatic backups** are created before each update
+
+### 🩺 System Diagnostics
+1. **Click "🩺 Run Diagnostics"** (requires Admin rights)
+2. **Wait for system scan** to complete
+3. **Review hardware compatibility** and driver status
+4. **Export report** for troubleshooting
 
 ---
 
-## 📚 Documentation
+## 🛠️ Utilities
 
-| Document | Description | Best For |
-|----------|-------------|----------|
-| **[� Quick Start](QUICK_START.md)** | **2-minute setup guide** | First-time users |
-| **[�📖 HOW TO USE](HOW_TO_USE.md)** | **Complete step-by-step manual** | Detailed guidance |
-| [🖼️ Visual Guide](VISUAL_GUIDE.md) | Screenshots and UI walkthrough | Visual learners |
-| [📁 Project Structure](PROJECT_STRUCTURE.md) | Repository organization | Contributors, developers |
-| [🐛 Issues](https://github.com/aman71711/CRICKET24_Utility/issues) | Bug reports and feature requests | Technical problems |
-| [💬 Discord](https://discord.gg/5gWWv3ar) | Community support and discussions | Quick help, community |
+## 🛠️ Utilities
+
+### 🗑️ Cache Management
+- **Clear Download Cache**: Remove temporary update files to free up disk space
+- **Archive Logs**: Export application logs for troubleshooting
+- **Set Cloudflare DNS**: One-click DNS change to Cloudflare (1.1.1.1) for better connectivity
+
+### ⚙️ Settings & Theme
+- **Professional dark theme** (optimized for long usage sessions)
+- **Automatic updates checking** on startup
+- **Configurable download settings**
+- **Network utilities** including DNS management
 
 ---
-## 🛠️ Technical Details
 
-### Built With
-- **Python 3.13+**: Core application logic
-- **Tkinter + sv-ttk**: Modern dark-themed user interface  
-- **Multi-threading**: Concurrent operations and background tasks
-- **PowerShell Integration**: Windows system operations
-- **7-Zip**: Archive extraction and compression
-- **WMI**: System information gathering
+## 🆘 Troubleshooting
 
-### Security Features
-- **Checksum Verification**: SHA-256 file integrity validation
-- **Multiple Download Sources**: Failover protection
-- **Secure Archive Handling**: Safe extraction with 7-Zip
-- **Windows Integration**: Proper privilege handling
+### Common Issues
+
+**❓ "Game directory not found" error**
+- Make sure you selected the folder containing `cricket24.exe`
+- Try running as Administrator
+
+**❓ Download fails repeatedly**
+- Check your internet connection
+- Disable antivirus temporarily
+- Try again during off-peak hours
+
+**❓ "Admin rights required" message**
+- Right-click the application → "Run as administrator"
+- This is required for game file modifications
+
+**❓ Game won't launch after update**
+- Verify game files using the Verification tab
+- Restore a previous save backup
+- Check Windows Event Viewer for crash details
+
+### 🚨 Advanced Issues - Discord Support Required
+
+**🛡️ Verification Shows Corrupt/Missing Files**
+1. **Save the problem files list**: Take screenshot or copy file names
+2. **Try re-downloading** the problematic files first
+3. **If re-download fails**:
+   - Join Discord `#discussion-c24`
+   - **Send the saved problem file list** (screenshot or text)
+   - Include your system specs and Cricket 24 version
+   - **Tag**: @xlr8_boi or @adityaberchha for immediate help
+4. **Developers will provide** targeted file fix or manual download links
+
+**💥 Game Crashes After Update**
+1. **First**: Run file verification to check for corrupt/missing files
+2. **Go to Verification tab** → Click "🔍 Start Verification"
+3. **If no corrupt/missing files found**:
+   - Export full diagnostic report using "🩺 Run Diagnostics"
+   - Join Discord and post in `#discussion-c24`
+   - **Send complete system report** including:
+     - Full diagnostic export file
+     - Windows Event Viewer crash details
+     - Last successful game version
+   - **Tag**: @xlr8_boi or @adityaberchha for immediate analysis
+4. **If corrupt/missing files found**: Follow verification procedure below
+
+**⚠️ Update Failed - Multiple Attempts**
+1. **Try basic fixes first**:
+   - **Use Cloudflare DNS**: Go to Utilities section → "Set Cloudflare DNS" button
+   - **Wait 2-3 minutes** after setting DNS before trying update again
+   - Clear download cache
+   - Run as Administrator
+   - Disable antivirus temporarily
+2. **If still failing**:
+   - Try **Manual Install** option in the updater
+3. **If nothing works**: 
+   - Export application logs (🗑️ Archive Logs)
+   - Join Discord `#discussion-c24` channel
+   - **Send complete log file** + describe exact error
+   - Tag developers for priority support
+
+### 💬 Getting Help
+
+**🔗 [Join our Discord Server](https://discord.gg/5gWWv3ar)** for:
+- ✅ **Instant community support**
+- ✅ **Bug reports and feature requests** 
+- ✅ **Update notifications**
+- ✅ **Cricket 24 discussions**
+- ✅ **Direct contact with developers**
+
+**Discord Channels:**
+- `#discussion-c24` - **Main channel for all Cricket 24 support and discussions**
+  - Get help with verification failures, crashes, and update problems
+  - Report bugs and technical issues (include full diagnostics)
+  - General Cricket 24 community chat and discussions
+  - Feature requests and suggestions
+
+### 🎯 Discord Support Protocol
+
+**For All Issues - Use `#discussion-c24`:**
+
+**For Verification Issues (Corrupt/Missing Files):**
+1. **Save problem file list** first (screenshot/copy names)
+2. Post in `#discussion-c24` with the saved file list
+3. Include your system specs and Cricket 24 version
+4. **Tag**: @xlr8_boi or @adityaberchha for targeted file fix
+
+**For Game Crashes:**
+1. **Always verify files first** - run verification before reporting
+2. If verification finds issues, follow verification procedure above
+3. If no file issues found, use `#discussion-c24` channel
+4. **Always include**: Complete diagnostic report + crash logs + system specs
+5. **Tag**: @xlr8_boi or @adityaberchha for priority response
+
+**For Update Failures:**
+1. **Use built-in DNS fix**: Go to Utilities → "Set Cloudflare DNS" button
+2. **Wait 2-3 minutes** after DNS change before retrying update
+3. Try **Manual Install** option in updater
+4. If persistent: Post in `#discussion-c24` with complete application logs
+5. Include exact error message and update version attempted
+
+---
+
+## 🔧 System Requirements
+
+### Minimum Requirements
+- **OS**: Windows 10 (64-bit) or Windows 11
+- **RAM**: 4 GB
+- **Storage**: 500 MB free space (for updater + cache)
+- **Network**: Stable internet connection
+- **Permissions**: Administrator rights (for game file modifications)
+
+### Recommended
+- **OS**: Windows 11
+- **RAM**: 8 GB or more
+- **Storage**: 2 GB free space
+- **Network**: Broadband connection (50+ Mbps)
 
 ---
 
 ## 👥 Development Team
 
-| Role | Developer | Discord |
-|------|-----------|---------|
-| 👑 **Creator** | XLR8 | @xlr8_boi |
-| ⭐ **Developer** | ADITYA | @adityaberchha | 
+### 👑 **XLR8** - Creator
+- **Discord**: @xlr8_boi
+- **Role**: Project creator and lead developer
 
-
----
-
-## 📈 Version History
-
-### v5.0 (Phoenix Enhanced) - Current
-- ✨ Complete visual overhaul with modern theming
-- 🎨 Enhanced icon consistency and visual hierarchy  
-- 📐 Improved layout with better spacing and alignment
-- 🎛️ Modular theme management system
-- 🔘 Optimized button styling and visual feedback
-- 🧹 Enhanced cache management with better UX
-
-<details>
-<summary>Previous Versions</summary>
-
-### v4.x Series
-- Enhanced network tools and diagnostics
-- Improved error handling and logging
-
-### v3.x Series  
-- Multi-threaded downloads and verification
-- Checksum validation system
-
-### v2.x Series
-- Basic update functionality
-- File verification features
-
-### v1.x Series
-- Initial release and core features
-
-</details>
+### ⭐ **ADITYA** - Developer  
+- **Discord**: @adityaberchha
+- **Role**: Core developer and UI/UX designer
 
 ---
 
-## 🤝 Contributing & Support
-
-### 🐛 Found a Bug?
-1. Check [existing issues](https://github.com/aman71711/CRICKET24_Utility/issues)
-2. Create a new issue with details
-3. Include logs and system information
-
-### 💡 Feature Requests
-- Open an issue with the `enhancement` label
-- Describe the feature and use case
-- Community feedback welcome!
-
-### 💬 Get Help
-- **Discord**: [Join our community](https://discord.gg/5gWWv3ar) (fastest response)
-- **GitHub Issues**: For bug reports and technical issues
-- **Documentation**: Check the [HOW TO USE guide](HOW_TO_USE.md)
-
----
-
-## License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Disclaimer
+---
 
-This tool is not affiliated with or endorsed by the official Cricket 24 developers. Use at your own risk. Always backup your save files before making changes.
+## 🔗 Links
+
+- **📦 [Download Latest Release](https://github.com/aman71711/CRICKET24_Utility/releases/latest)**
+- **💬 [Discord Community](https://discord.gg/5gWWv3ar)**
+- **🐛 [Report Issues](https://github.com/aman71711/CRICKET24_Utility/issues)**
+- **⭐ [Star this Project](https://github.com/aman71711/CRICKET24_Utility)**
 
 ---
 
-Made with ❤️ by the Cricket 24 Community
+<div align="center">
+
+**🏏 Made with ❤️ for the Cricket 24 Community**
+
+*Join our Discord for the latest updates and community support!*
+
+**[🔗 https://discord.gg/5gWWv3ar](https://discord.gg/5gWWv3ar)**
+
+</div>
