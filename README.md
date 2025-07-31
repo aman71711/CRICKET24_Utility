@@ -274,9 +274,9 @@
 - **Discord**: @xlr8_boi
 - **Role**: Project creator and lead developer
 
-### ⭐ **ADITYA** - Developer  
+### ⭐ **ADITYA** - Contributor  
 - **Discord**: @adityaberchha
-- **Role**: Core developer and UI/UX designer
+
 
 ---
 
