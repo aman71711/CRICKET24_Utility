@@ -1,9 +1,9 @@
 {
-  "latest_version": "5392",
+  "latest_version": "5398",
   "versions": [
     "3451", "3891", "4784", "4818", "4847", "4910", "4949",
     "5008", "5047", "5183", "5214", "5256", "5270", "5301",
-    "5328", "5362", "5392"
+    "5328", "5362", "5398"
   ],
   "host_preference_order": [
     "pixeldrain",
@@ -29,7 +29,7 @@
         "5270_5301": "https://pd.cybar.xyz/z8iYh2kj",
         "5301_5328": "https://pd.cybar.xyz/V5VhtHS2",
         "5328_5362": "https://pd.cybar.xyz/1aazENNW",
-        "5362_5392": "https://pd.cybar.xyz/KdiebuvF"
+        "5362_5398": null
       },
       "checksums": {
         "3451_3891": "451fd57304b5dadd8245ee5c5aa1eaaf13c594068f880038fb5c23cb0eeb8b28",
@@ -44,7 +44,7 @@
         "5270_5301": "5cdaae502a37fbc0888f812180136d72f077d38858d879b6cf6bee13a3cbf2c1",
         "5301_5328": "4e64d39ccc6743bfa22ff37c5169ae23214d42d59b6dd04042c40cd67e723ca8",
         "5328_5362": "b8f30283eea3b3452f08501d97026a211ca4af49eca3ca77424ddf794ec8ff52",
-        "5362_5392": "d261b756df5a93e526cd3cd581e3f6d81c98c8e7a33b4a7d4e2044d57cb8371c"
+        "5362_5398": null
       }
     },
     {
@@ -66,7 +66,7 @@
         "5270_5301": "https://eu1.akirabox.com/uploads/users/ygXeGOgJGAa7/cooUqSHE4ui7f5RCTde-C24.v0.2.5270%E2%80%93v0.2.5301-GameDrive.Org.rar?access=AahBHZlt2ayFTYrRWcwwWa1d3NyI2asRHcjJWb",
         "5301_5328": "https://eu1.akirabox.com/uploads/users/ygXeGOgJGAa7/corWYZAPyDLsxxWSBde-C24.v0.2.5301%E2%80%93v0.2.5328-GameDrive.Org.rar?access=ANhpHZ5tmcytWYrRGZnZ3b0QHZzg3a4RncjRTb",
         "5328_5362": "https://eu1.akirabox.com/uploads/users/ygXeGOgJGAa7/coXwzmjD7zWAwMebFde-C24.v0.2.5328%E2%80%93v0.2.5362-GameDrive.Org.rar?access=QOhVGZws2cy1WYxRWa3pWd4F3b0o3alRHNjRTb",
-        "5362_5392": null
+        "5362_5398": "https://eu1.akirabox.com/uploads/users/M2BGw6OXzj40/coQwqobwRQWa6dDOHde-v5362-v5398.rar?access=QNhdDZ2sGMyNXYuRGMzhjdnJ3NsdzZkJnMkRWb"
       }
     }
   ],
@@ -76,11 +76,11 @@
     "4949_5008": "39.6 MB", "5008_5047": "39 MB", "5047_5183": "181 MB",
     "5183_5214": "38.9 MB", "5214_5256": "271 MB", "5256_5270": "207 MB",
     "5270_5301": "41.3 MB", "5301_5328": "288 MB", "5328_5362": "246 MB",
-    "5362_5392": "448 MB"
+    "5362_5398": null
   },
   "manifest_links": {
     "5328": "https://api.github.com/repos/aman71711/CRICKET24_Utility/contents/manifest_v5328.json",
     "5362": "https://api.github.com/repos/aman71711/CRICKET24_Utility/contents/manifest_v5362.json",
-    "5392": "https://api.github.com/repos/aman71711/CRICKET24_Utility/contents/manifest_v5392.json"
+    "5398": "https://api.github.com/repos/aman71711/CRICKET24_Utility/contents/manifest_v5398.json"
   }
 }
