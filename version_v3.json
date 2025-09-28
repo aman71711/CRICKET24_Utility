@@ -1,9 +1,9 @@
 {
-  "latest_version": "5444",
+  "latest_version": "5460",
   "versions": [
     "3451", "3891", "4784", "4818", "4847", "4910", "4949",
     "5008", "5047", "5183", "5214", "5256", "5270", "5301",
-    "5328", "5362", "5398", "5426", "5444"
+    "5328", "5362", "5398", "5426", "5444", "5460"
   ],
   "host_preference_order": [
     "pixeldrain",
@@ -31,7 +31,8 @@
         "5328_5362": "https://pd.cybar.xyz/1aazENNW",
         "5362_5398": "https://pd.cybar.xyz/xt1Lw4z2",
         "5398_5426": "https://pd.cybar.xyz/GPah9Q1p",
-        "5426_5444": "https://pd.cybar.xyz/R29msWTX"
+        "5426_5444": "https://pd.cybar.xyz/R29msWTX",
+        "5444_5460": "https://pd.cybar.xyz/69ButEyu"
       },
       "checksums": {
         "3451_3891": "451fd57304b5dadd8245ee5c5aa1eaaf13c594068f880038fb5c23cb0eeb8b28",
@@ -51,7 +52,8 @@
         "5328_5362": "b8f30283eea3b3452f08501d97026a211ca4af49eca3ca77424ddf794ec8ff52",
         "5362_5398": "2aa3f3159a6d6a2d061ea8b7c9bab000ab99e02e9a977e52e4968628bcbcf54c",
         "5398_5426": "b652aa39124b1ace9085c2934d5a18f23fdde4b5502b14cc5357a6e1df5a9029",
-        "5426_5444": "637bd8a047d116d884e2f0ee710374b48afd807793edd6426ec0752e3290c8c3"
+        "5426_5444": "637bd8a047d116d884e2f0ee710374b48afd807793edd6426ec0752e3290c8c3",
+        "5444_5460": "76dc5302bbe38bbf1baa27bd3809f37f14f9afcbcbb9a8ca1d1bd80a8bb560e3"
       }
     },
     {
@@ -75,7 +77,8 @@
         "5328_5362": "https://eu1.akirabox.com/uploads/users/ygXeGOgJGAa7/coXwzmjD7zWAwMebFde-C24.v0.2.5328%E2%80%93v0.2.5362-GameDrive.Org.rar?access=QOhVGZws2cy1WYxRWa3pWd4F3b0o3alRHNjRTb",
         "5362_5398": "https://eeur1.akirabox.com/uploads/users/ygXeGOgJGAa7/cox9bbDK3LEoiOYJOde-C24.v0.2.5362%E2%80%93v0.2.5398-GameDrive.Org.rar?access=QdhRDZ5s2cylTYyQmMjpGZrdWM1oWcyBTandXb",
         "5398_5426": "https://eu1.akirabox.com/uploads/users/ygXeGOgJGAa7/coXipsdhQrQZz8Z7Fde-C24.v0.2.5398%E2%80%93v0.2.5426-GameDrive.Org.rar?access=gch1GZqt2cydWY2RGOvd3cjNWNoJHOntGdllWb",
-        "5426_5444": "https://us1.akirabox.com/uploads/users/ygXeGOgJGAa7/coSUtYJuZ30BtoUhcde-C24.v0.2.5426-v0.2.5444-GameDrive.Org.rar?access=wdhdHZptWdyBXY2QWNj5WNsNjcplje6BHNmNXb"
+        "5426_5444": "https://us1.akirabox.com/uploads/users/ygXeGOgJGAa7/coSUtYJuZ30BtoUhcde-C24.v0.2.5426-v0.2.5444-GameDrive.Org.rar?access=wdhdHZptWdyBXY2QWNj5WNsNjcplje6BHNmNXb",
+        "5444_5460": "https://download.akirabox.com/uploads/users/M2BGw6OXzj40/coX8EBQlqWE5J0Rr2de-v5444-v5460.rar?access=wahdHZktGcydTYzRma3Z2Yrp3Y5FzZqNDOnJWb&token=ElRGX1BMGEFQV0JFFgAc"
       }
     }
   ],
@@ -97,13 +100,15 @@
     "5328_5362": "246 MB",
     "5362_5398": "448 MB",
     "5398_5426": "42.18MB",
-    "5426_5444": "50.7 MB"
+    "5426_5444": "50.7 MB",
+    "5444_5460": "208MB"
   },
   "manifest_links": {
     "5328": "https://api.github.com/repos/aman71711/CRICKET24_Utility/contents/manifest_v5328.json",
     "5362": "https://api.github.com/repos/aman71711/CRICKET24_Utility/contents/manifest_v5362.json",
     "5398": "https://api.github.com/repos/aman71711/CRICKET24_Utility/contents/manifest_v5398.json",
     "5426": "https://api.github.com/repos/aman71711/CRICKET24_Utility/contents/manifest_v5426.json",
-    "5444": "https://api.github.com/repos/aman71711/CRICKET24_Utility/contents/manifest_v5444.json"
+    "5444": "https://api.github.com/repos/aman71711/CRICKET24_Utility/contents/manifest_v5444.json",
+    "5460": "https://api.github.com/repos/aman71711/CRICKET24_Utility/contents/manifest_v5460.json"
   }
 }
